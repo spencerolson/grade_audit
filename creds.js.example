@@ -1,0 +1,5 @@
+module.exports = {
+  username: 'username',
+  password: 'password',
+  api_token: 'an-api-token'
+}
